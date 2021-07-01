@@ -1,0 +1,3 @@
+# Introduction
+
+A machine learning model that automates account receivables given a dataset/data(supervised machine learning). We have to understand the data, preporcess the data, execute feature engineering and finally train a model to predict account receivables. Project directory has two files, "main.ipynb" jupyter notebook is building model and removing the overfitting problem from the first try. This gives a better accuracy for both the training and testing sets.
